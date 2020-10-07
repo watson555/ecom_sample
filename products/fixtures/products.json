@@ -1,0 +1,72 @@
+[
+{
+    "model": "products.product",
+    "pk": 1,
+    "fields": {
+        "title": "T-shirt",
+        "slug": "t-shirt",
+        "description": "this is t-shirt",
+        "price": "35.50",
+        "image": "",
+        "featured": false,
+        "active": true,
+        "timestamp": "2020-09-15T05:26:56.958Z"
+    }
+},
+{
+    "model": "products.product",
+    "pk": 2,
+    "fields": {
+        "title": "Hat",
+        "slug": "hat",
+        "description": "this is hat",
+        "price": "20.20",
+        "image": "products/17411127/17411127.jpg",
+        "featured": false,
+        "active": true,
+        "timestamp": "2020-09-15T05:26:56.958Z"
+    }
+},
+{
+    "model": "products.product",
+    "pk": 3,
+    "fields": {
+        "title": "computer",
+        "slug": "computer",
+        "description": "this is computer",
+        "price": "35.50",
+        "image": "",
+        "featured": true,
+        "active": true,
+        "timestamp": "2020-09-15T05:26:56.958Z"
+    }
+},
+{
+    "model": "products.product",
+    "pk": 4,
+    "fields": {
+        "title": "T-shirt",
+        "slug": "t-shirt-1u8o",
+        "description": "this is t-shirt",
+        "price": "35.50",
+        "image": "",
+        "featured": false,
+        "active": true,
+        "timestamp": "2020-09-15T05:26:56.958Z"
+    }
+},
+{
+    "model": "products.product",
+    "pk": 5,
+    "fields": {
+        "title": "Lorem lpsum",
+        "slug": "lorem-lpsum",
+        "description": "While there are not many official records of hats before 3,000 BC, they probably were commonplace before that. The 27,000-to-30,000-year-old Venus of Willendorf figurine may depict a woman wearing a woven hat.[4] One of the earliest known confirmed hats was worn by a Bronze Age man (nicknamed \u00d6tzi) whose body (including his hat) was found frozen in a mountain between Austria and Italy, where he'd been since around 3250 BC. He was found wearing a bearskin cap with a chin strap, made of several hides stitched together, essentially resembling a Russian fur hat without the flaps.[5][6][7]\r\n\r\nOne of the first pictorial depictions of a hat appears in a tomb painting from Thebes, Egypt, which shows a man wearing a conical straw hat, dated to around 3200 BC. Hats were commonly worn in ancient Egypt. Many upper-class Egyptians shaved their heads, then covered it in a headdress intended to help them keep cool. Ancient Mesopotamians often wore conical hats or ones shaped somewhat like an inverted vase.\r\n\r\n\r\nHats as an indicator of social status: a foreman (with horse) wears a hat of greater height than the accompanying inquilino (19th-century Chile).\r\nOther early hats include the Pileus, a simple skull-like cap; the Phrygian cap, worn by freed slaves in Greece and Rome (which became iconic in America during the Revolutionary War and the French Revolution, as a symbol of the struggle for liberty against the Monarchy); and the Greek petasos, the first known hat with a brim. Women wore veils, kerchiefs, hoods, caps and wimples.\r\n\r\nLike \u00d6tzi, the Tollund Man was preserved to the present day with a hat on, probably having died around 400 BC in a Danish bog, which mummified him. He wore a pointed cap made of sheepskin and wool, fastened under the chin by a hide thong.[8]\r\n\r\nSt. Clement, the patron saint of felt hatmakers, is said to have discovered felt when he filled his sandals with flax fibers to protect his feet, around 800 AD.[9]\r\n\r\nIn the Middle Ages, hats were a marker of social status and used to single out certain groups. The 1215 Fourth Council of the Lateran required that all Jews identify themselves by wearing the Judenhat (\"Jewish hat\"), marking them as targets for anti-Semitism.[10] The hats were usually yellow and were either pointed or square.[11]\r\n\r\n\r\nCarle Vernet's 1796 painting showing two decadent French \"Incredibles\" greeting each other, one with what appears to be a top hat, perhaps its first recorded appearance.\r\nIn the Middle Ages, hats for women ranged from simple scarves to elaborate hennin,[12] and denoted social status. Structured hats for women similar to those of male courtiers began to be worn in the late 16th century.[13] The term 'milliner' comes from the Italian city of Milan, where the best quality hats were made in the 18th century. Millinery was traditionally a woman's occupation, with the milliner not only creating hats and bonnets but also choosing lace, trimmings and accessories to complete an outfit.[14]\r\n\r\n\r\nLeft-to-right: Top-hat, peaked cap, Borsalino, bowler hat (Sweden, early 20th century).\r\nIn the first half of the 19th century, women wore bonnets that gradually became larger, decorated with ribbons, flowers, feathers, and gauze trims. By the end of the century, many other styles were introduced, among them hats with wide brims and flat crowns, the flower pot and the toque. By the middle of the 1920s, when women began to cut their hair short, they chose hats that hugged the head like a helmet.[13]\r\n\r\nThe tradition of wearing hats to horse racing events began at the Royal Ascot in Britain, which maintains a strict dress code. All guests in the Royal Enclosure must wear hats.[15] This tradition was adopted at other horse racing events, such as the Kentucky Derby in the United States.[16]\r\n\r\nExtravagant hats were popular in the 1980s, and in the early 21st century, flamboyant hats made a comeback, with a new wave of competitive young milliners designing creations that include turban caps, trompe-l'oeil-effect felt hats and tall headpieces made of human hair. Some new hat collections have been described as \"wearable sculpture\". Many pop stars, among them Lady Gaga, have commissioned hats as publicity stunts.",
+        "price": "35.50",
+        "image": "",
+        "featured": false,
+        "active": true,
+        "timestamp": "2020-09-15T05:26:56.958Z"
+    }
+}
+]
